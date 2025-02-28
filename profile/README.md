@@ -1,5 +1,8 @@
 # 📊 네트워크 대시보드
-
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ## 개요
 네트워크 대시보드는 서버들의 네트워크 상태를 실시간으로 모니터링하고 다양한 통계를 제공하는 웹 애플리케이션입니다. 사용자는 메인 페이지에서 전체 서버 상태를 한눈에 파악할 수 있으며, 개별 서버의 상세 정보 및 기간별 통계를 조회할 수 있습니다. 또한, OpenAI 기반의 챗봇을 활용하여 네트워크 및 서버 관련 질문을 할 수 있습니다.
 
