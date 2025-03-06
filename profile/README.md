@@ -104,3 +104,6 @@ npm start
 2. 특정 서버를 클릭하여 상세 정보를 조회합니다.
 3. 기간별 통계를 확인하고 분석합니다.
 4. 챗봇을 활용하여 네트워크 및 서버 관련 질문을 합니다.
+
+##  문서
+http://kkms4001.iptime.org/~c21st11/Portfolio/network_dashboard/Network%20Dashboard_team3.pdf
